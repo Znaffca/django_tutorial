@@ -1,3 +1,5 @@
-# django_tutorial from `https://docs.djangoproject.com/en/2.2/intro/`
+# Django_tutorial
 
-Simple introduction to django
+### from `https://docs.djangoproject.com/en/2.2/intro/`
+
+My simple introduction to django
